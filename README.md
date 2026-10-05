@@ -49,4 +49,6 @@ Technical Highlights
 
 # 5.Snapshort/Demo
 
+![Dashboard Preview](https://github.com/chinmayrgawde/Healthcare-Provide/blob/main/Healthcare%20Provide%20snap.PNG)
+
 
